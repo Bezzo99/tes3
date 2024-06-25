@@ -1,0 +1,22 @@
+#!/bin/bash
+# =========================================
+# Quick Setup | Script Setup Manager
+# Edition : Stable Edition V3.1
+# Auther  : Geo Project
+# (C) Copyright 2024
+# =========================================
+clear
+apt install figlet -y
+mkdir -p /etc/novan/
+wget -q -O /etc/novan/udp "https://raw.githubusercontent.com/Bezzo99/tes3/main/ssh/ins_ssh_udp"
+wget -q -O /etc/systemd/system/udp.service "https://raw.githubusercontent.com/Bezzo99/tes3/main/ssh/udp.service"
+wget -q -O /etc/novan/config.json "https://raw.githubusercontent.com/Bezzo99/tes3/main/ssh/config.json"
+chmod +x /etc/novan/udp
+chmod +x /etc/systemd/system/udp.service
+chmod +x /etc/novan/config.json
+systemctl enable udp
+systemctl start udp
+systemctl restart udp
+echo ""
+figlet SUCCES SSH UDP | lolcat
+echo ""
