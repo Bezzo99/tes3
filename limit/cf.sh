@@ -3,12 +3,12 @@ red='\e[1;31m'
 green='\e[0;32m'
 NC='\e[0m'
 ns_domain_cloudflare1() {
-DOMAIN=xservers.tech
+DOMAIN=vipserver.us.kg
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c4)
 echo $sub > /root/cfku
-SUB_DOMAIN=${sub}.xservers.tech
-CF_ID=ubaidi9699@gmail.com
-CF_KEY=8419dff1fb7c355d187e64a22ddde5b82ebbe
+SUB_DOMAIN=${sub}.vipserver.us.kg
+CF_ID=novanthekillz75@gmail.com
+CF_KEY=86d1ca744895c8886efa4d07b02bcb2ba1e04
 echo "xservers.tech" > /root/domain
 echo $SUB_DOMAIN > /root/domain
 
