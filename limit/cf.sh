@@ -3,13 +3,13 @@ red='\e[1;31m'
 green='\e[0;32m'
 NC='\e[0m'
 ns_domain_cloudflare1() {
-DOMAIN=vipserver.us.kg
+DOMAIN=vipservers.us.kg
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c4)
 echo $sub > /root/cfku
-SUB_DOMAIN=${sub}.vipserver.us.kg
-CF_ID=novanthekillz75@gmail.com
-CF_KEY=86d1ca744895c8886efa4d07b02bcb2ba1e04
-echo "xservers.tech" > /root/domain
+SUB_DOMAIN=${sub}.vipservers.us.kg
+CF_ID=bezzostore7@gmail.com
+CF_KEY=014a1d2fa0c027197d0ebc6f2f9149128a008
+echo "vipservers.us.kg" > /root/domain
 echo $SUB_DOMAIN > /root/domain
 
 set -euo pipefail
